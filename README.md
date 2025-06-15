@@ -27,6 +27,9 @@ If you are a VTuber wanting to use Inochi2D we highly recommend checking out [In
 
 &nbsp;
 
+## For those forking the repo
+While the original repo discourages forks, I believe that forks can be used to create even more options for open source enjoyers. Therefore, forking is not only allowed, it's encouraged.
+
 ## For package maintainers
 We do not officially support packages that we don't officially build ourselves, we ask that you build using the barebones configurations, as the branding assets are copyright the Inochi2D Project.  
 You may request permission to use our branding assets in your package by submitting an issue.
