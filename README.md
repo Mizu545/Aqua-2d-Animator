@@ -28,18 +28,10 @@ If you are a VTuber wanting to use Inochi2D we highly recommend checking out [In
 &nbsp;
 
 ## For those forking the repo
-While the original repo discourages detached forks, I believe that detached forks can be used to create even more options for open source enjoyers. Therefore, detaching a fork is not only allowed, it's also encouraged.
+While the original repo discourages detached forks, I believe that detached forks can be used to create even more options for open source enjoyers (It is how this repo became independent, after all). Therefore, detaching a fork is not only allowed, it's also encouraged.
 
 ## For package maintainers
-We do not officially support packages that we don't officially build ourselves, we ask that you build using the barebones configurations, as the branding assets are copyright the Inochi2D Project.  
-You may request permission to use our branding assets in your package by submitting an issue.
-
-Barebones builds are more or less equivalent to official builds with the exception that branding is removed,  
-and that we don't accept support tickets unless a problem can be replicated on an official build.
-
-Links in `source/creator/config.d` should be updated to point to your package's issues list, as we do not accept issues from non-official builds.
-
-&nbsp;
+For some packages, I will support the package, especially if it is close to this detached fork.
 
 ## Building
 It's occasionally the case that our dependencies are out of sync with dub, so it's somewhat recommended if you're building from source to clone the tip of `main` and `dub add-local . "<version matching inochi-creator dep>"` any of our forked dependencies (i18n-d, psd-d, bindbc-imgui, facetrack-d, inmath, inochi2d). This will generally keep you up to date with what we're doing, and it's how the primary contributors work. Ideally we'd have a script to help set this up, but currently we do it manually, PRs welcome :)
