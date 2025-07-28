@@ -48,6 +48,16 @@ Once the below dependencies are met, building and running inochi-creator should 
 - CMake (Currently 3.16 or higher is needed.)
 - Dlang, either dmd or ldc (ldc recommended)
 
+### MacOS
+#### Dependecies
+- MacOS Terminal
+- Homebrew, MacPorts, or other package manager
+- CMake (Currently 3.27 or higher to avoid deperaction warnings is needed.)
+- Dlang, either dmd or ldc (ldc recommended in most cases)
+- If able to update to MacOS Sequoia, a container is recommended (Not neccesary if the mac is neither apple silcon, is able to go to Sequoia, nor if the complier is ldc.)
+- SDL2
+- Freetype
+- Finally, and most importantly, dub (required to successfully run the app)
 ### Linux
 #### Dependencies
 - The equivalent of build-essential on Ubuntu, on centos 7, this was `sudo yum groupinstall 'Development Tools'`, this should get you a working C++ toolchain.
