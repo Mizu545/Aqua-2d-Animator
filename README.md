@@ -9,7 +9,7 @@ _Ada model by [ku-ini](https://twitter.com/duckmastah)_
 
 Aqua2D Editor is an open source editor for the [Aqua2D puppet format](https://github.com/Mizu545/Aqua2d).  This application allows you to rig models for use in games or for other real-time applications such as [VTubing](https://en.wikipedia.org/wiki/VTuber). Animation is achieved by morphing, transforming and in other ways distorting layered 2D textures in real-time. These distortions can trick the end user in to perciving 3D depth in the 2D art.
 
-If you are a VTuber wanting to use Inochi2D we highly recommend checking out [Inochi Session](https://github.com/Inochi2D/inochi-session) as well.
+If you are a VTuber wanting to use Inochi2D we highly recommend checking out [Aqua2d Live](https://github.com/Mizu545/Aqua-2d-Live) as well.
 
 &nbsp;
 
