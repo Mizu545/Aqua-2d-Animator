@@ -30,6 +30,9 @@ While the original repo discourages detached forks, I believe that detached fork
 ## For package maintainers
 For some packages, I will support the package, especially if it is close to this detached fork.
 
+## Connection to Nijigenerate
+Due to Nijigenerate also being a fork of Inochi2d, It will using some of the code in Nijigenerate. Nijigenerate Higher-Ups, please don't get upset, I'm just following your example and will credit you for the code.
+
 ## Building
 It's occasionally the case that my dependencies are out of sync with dub, so it's somewhat recommended if you're building from source to clone the tip of `main` and `dub add-local . "<version matching inochi-creator dep>"` any of my forked dependencies (i18n-d, psd-d, bindbc-imgui, facetrack-d, inmath, inochi2d). This will generally keep you up to date with what I'm doing, and it's how the primary contributors work. Ideally I'd have a script to help set this up, but currently I have to do it manually, PRs welcome :)
 
