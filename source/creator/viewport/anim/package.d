@@ -9,6 +9,7 @@ import creator.core.input;
 import creator;
 import inochi2d;
 import bindbc.imgui;
+import creator.viewport.anim.ik;
 
 // No overlay in deform mode
 void incViewportAnimOverlay() { }
