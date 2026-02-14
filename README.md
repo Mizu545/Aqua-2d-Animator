@@ -20,7 +20,7 @@ None as of now.
 ### Experimental Builds
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Nightly Builds](https://img.shields.io/github/actions/workflow/status/Inochi2D/inochi-creator/release-nightly.yml?label=Nightly&style=for-the-badge)](https://github.com/Inochi2D/inochi-creator/releases/tag/nightly)  
+[![Nightly Builds](https://img.shields.io/github/actions/workflow/status/Aqua2d/Aqua-2d-Editor/release-nightly.yml?label=Nightly&style=for-the-badge)](https://github.com/Aqua2d/Aqua-2d-Editor/releases/tag/nightly)  
 
 &nbsp;
 
